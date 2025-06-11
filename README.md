@@ -1,4 +1,4 @@
-# Postman API Test Automation
+# Postman API Test Automation.
 
 🔧 Tools & Technologies Used
 
